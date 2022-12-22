@@ -15,7 +15,7 @@
     "get-routes": "^0.2.0",
     "gmail-send": "^1.2.14",
     "http-errors": "~1.6.2",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "md5": "^2.2.1",
     "morgan": "~1.9.0",
     "mysql": "^2.16.0",
